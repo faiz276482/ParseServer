@@ -14,6 +14,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Switch;
 
+import com.parse.FindCallback;
 import com.parse.GetCallback;
 import com.parse.LogInCallback;
 import com.parse.Parse;
@@ -25,6 +26,8 @@ import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
+import java.util.List;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -33,6 +36,36 @@ public class MainActivity extends AppCompatActivity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
+    ParseQuery<ParseObject>query =ParseQuery.getQuery("Score");
+    query.findInBackground(new FindCallback<ParseObject>() {
+      @Override
+      public void done(List<ParseObject> objects, ParseException e) {
+        if(e==null)
+        {
+          if(objects.size()>0)
+          {
+            for(ParseObject i:objects)
+            {
+              Log.i("Username:",i.getString("username"));
+              Log.i("Score:",i.getInt("score")+"");
+            }
+
+          }
+        }
+        else{
+          Log.i("Eroor:","Parse Exception of some sort");
+        }
+      }
+    });
+
+
+
+
+
+
+
+
+
     /*
     ParseObject score=new ParseObject("Score");
     score.put("username","Anjali");
@@ -80,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
           e.printStackTrace();
         }
       }
-    });*/
+    });
     ParseQuery<ParseObject> query=new ParseQuery<ParseObject>("Tweet");
     query.getInBackground("qUjKJ1c2eJ", new GetCallback<ParseObject>() {
       @Override
@@ -97,6 +130,7 @@ public class MainActivity extends AppCompatActivity {
         }
       }
     });
+    */
 
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
