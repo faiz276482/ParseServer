@@ -1,4 +1,4 @@
-#Tue Aug 13 17:34:36 IST 2019
+#Wed Aug 21 22:15:15 IST 2019
 base.0=C\:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.1=classes.dex
 renamed.0=classes2.dex

@@ -406,7 +406,6 @@ com/google/android/gms/internal/zzqu.class
 android/support/v4/view/ViewCompatHC.class
 com/parse/EventuallyPin.class
 com/google/android/gms/wallet/EnableWalletOptimizationReceiver.class
-com/parse/GetCallback.class
 android/support/annotation/StyleRes.class
 android/support/v4/app/BackStackRecord.class
 android/support/annotation/XmlRes.class
@@ -589,6 +588,7 @@ android/support/v4/media/session/MediaSessionCompat$ResultReceiverWrapper.class
 com/google/android/gms/internal/zzfk.class
 com/google/android/gms/cast/Cast$CastApi.class
 android/support/v4/app/TaskStackBuilder.class
+com/parse/FindCallback.class
 com/google/android/gms/location/places/NearbyAlertRequest.class
 android/support/v7/app/ActionBar$TabListener.class
 com/google/android/gms/internal/zzcv.class
