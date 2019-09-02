@@ -380,7 +380,6 @@ com/google/android/gms/internal/zzdg.class
 com/google/android/gms/wallet/fragment/WalletFragmentStyle.class
 com/google/android/gms/wearable/ChannelApi.class
 com/google/android/gms/internal/zzfj.class
-com/parse/ParseCallback2.class
 com/google/android/gms/internal/zzdf.class
 android/support/v4/widget/MaterialProgressDrawable$Ring.class
 com/google/android/gms/awareness/fence/FenceState.class
@@ -588,7 +587,6 @@ android/support/v4/media/session/MediaSessionCompat$ResultReceiverWrapper.class
 com/google/android/gms/internal/zzfk.class
 com/google/android/gms/cast/Cast$CastApi.class
 android/support/v4/app/TaskStackBuilder.class
-com/parse/FindCallback.class
 com/google/android/gms/location/places/NearbyAlertRequest.class
 android/support/v7/app/ActionBar$TabListener.class
 com/google/android/gms/internal/zzcv.class
@@ -646,7 +644,6 @@ com/google/android/gms/gcm/OneoffTask.class
 com/google/android/gms/games/social/Social$InviteUpdateResult.class
 android/support/v4/app/FragmentManager$BackStackEntry.class
 android/support/v4/view/ViewCompat$HCViewCompatImpl.class
-com/parse/starter/MainActivity$1.class
 com/google/android/gms/wallet/Address.class
 android/support/v4/media/VolumeProviderCompat$ControlType.class
 com/google/android/gms/auth/api/signin/internal/SignInConfiguration.class

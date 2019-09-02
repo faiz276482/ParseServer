@@ -11,12 +11,14 @@ package com.parse.starter;
 import android.app.Application;
 import android.util.Log;
 
+import com.parse.LogInCallback;
 import com.parse.Parse;
 import com.parse.ParseACL;
 import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
+import com.parse.SignUpCallback;
 
 
 public class StarterApplication extends Application {
@@ -32,14 +34,14 @@ public class StarterApplication extends Application {
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
             .applicationId("2fbac575ea7e7d4dfb0d730e5a83f317378ae8dd")
             .clientKey("68536bbb8d71bc7d33aefdba01955f04d1559be4")
-            .server("http://13.233.149.17:80/parse/")
+            .server("http://13.235.104.190:80/parse/")
             .build()
             //iyvuLAg1O1sn
     );
 
 
 
-    ParseUser.enableAutomaticUser();
+    //ParseUser.enableAutomaticUser();
 
     ParseACL defaultACL = new ParseACL();
     defaultACL.setPublicReadAccess(true);

@@ -36,7 +36,74 @@ public class MainActivity extends AppCompatActivity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
+
+    ParseUser user=new ParseUser();
+      /*
+      //Signup Code
+      user.setUsername("Anjali");
+      user.setPassword("pass123");
+      user.signUpInBackground(new SignUpCallback() {
+          @Override
+          public void done(ParseException e) {
+              if(e==null)
+              {
+                  System.out.println("Signed Up Successfully");
+              }
+              else
+              {
+                  e.printStackTrace();
+              }
+          }
+      });*/
+
+      /*
+    //Login Code
+    ParseUser.logInInBackground("Anjali", "pass123", new LogInCallback() {
+      @Override
+      public void done(ParseUser user, ParseException e) {
+        if(user!=null)
+        {
+          System.out.println("Logged in Sucessfully");
+        }
+        else {
+          e.printStackTrace();
+        }
+      }
+    });
+    */
+      //Checking if a user is currently logged in or not
+      if(ParseUser.getCurrentUser()!=null){
+        System.out.println("Signed in:"+"Username= "+ ParseUser.getCurrentUser().getUsername());
+      }
+      else {
+        System.out.println("User needs to Login");
+      }
+
+    /*
     ParseQuery<ParseObject>query =ParseQuery.getQuery("Score");
+    query.whereGreaterThan("score",50);
+    query.findInBackground(new FindCallback<ParseObject>() {
+      @Override
+      public void done(List<ParseObject> objects, ParseException e) {
+        if(e==null && objects.size()>0)
+        {
+          for(ParseObject score:objects)
+          {
+            score.put("score",score.getInt("score")+20);
+            score.saveInBackground();
+          }
+        }
+        else{
+          e.printStackTrace();
+          Log.i("Error:","Parse Exception of some sort");
+        }
+      }
+    });
+    */
+
+    /*ParseQuery<ParseObject>query =ParseQuery.getQuery("Score");
+    query.whereEqualTo("username","Anjali");
+    query.setLimit(1);
     query.findInBackground(new FindCallback<ParseObject>() {
       @Override
       public void done(List<ParseObject> objects, ParseException e) {
@@ -46,23 +113,18 @@ public class MainActivity extends AppCompatActivity {
           {
             for(ParseObject i:objects)
             {
-              Log.i("Username:",i.getString("username"));
+              System.out.println("Username:"+i.getString("username"));
               Log.i("Score:",i.getInt("score")+"");
             }
 
           }
         }
         else{
-          Log.i("Eroor:","Parse Exception of some sort");
+          e.printStackTrace();
+          Log.i("Error:","Parse Exception of some sort");
         }
       }
-    });
-
-
-
-
-
-
+    });*/
 
 
 
@@ -76,7 +138,7 @@ public class MainActivity extends AppCompatActivity {
         if(e==null)
         {
           //ok
-          Log.i("Success:","we saved the scotre");
+          Log.i("Success:","we saved the score");
         }
         else{
           e.printStackTrace();
@@ -96,8 +158,8 @@ public class MainActivity extends AppCompatActivity {
 
         }
       }
-    });
-    */
+    });*/
+
 
     /*ParseObject tweet=new ParseObject("Tweet");
     tweet.put("username","alamfaiz71");
