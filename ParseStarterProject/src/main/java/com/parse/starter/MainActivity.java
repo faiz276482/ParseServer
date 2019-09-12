@@ -17,6 +17,7 @@ import android.widget.Switch;
 import com.parse.FindCallback;
 import com.parse.GetCallback;
 import com.parse.LogInCallback;
+import com.parse.LogOutCallback;
 import com.parse.Parse;
 import com.parse.ParseAnalytics;
 import com.parse.ParseAnonymousUtils;
@@ -71,6 +72,17 @@ public class MainActivity extends AppCompatActivity {
       }
     });
     */
+      /*logout code
+      ParseUser.logOutInBackground(new LogOutCallback() {
+        @Override
+        public void done(ParseException e) {
+          if(e!=null)
+          {
+            e.printStackTrace();
+          }
+        }
+      });
+      */
       //Checking if a user is currently logged in or not
       if(ParseUser.getCurrentUser()!=null){
         System.out.println("Signed in:"+"Username= "+ ParseUser.getCurrentUser().getUsername());

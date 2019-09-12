@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0910c2c7-42bf-4b57-a6af-dd362dc992ce" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterDir="false" />
@@ -19,484 +18,16 @@
       <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_ParseStarterProject_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_ParseStarterProject_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_ParseStarterProject_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_ParseStarterProject_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_ParseStarterProject_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_ParseStarterProject_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_ParseStarterProject_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_ParseStarterProject_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/generated/source/buildConfig/androidTest/debug/com/parse/starter/test/BuildConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-af.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-af.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-am.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-am.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ar.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ar.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-az.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-az.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-be.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-be.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-bg.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-bg.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-bn.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-bn.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-bs.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-bs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ca.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ca.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-cs.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-cs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-da.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-da.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-de.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-de.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-el.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-el.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-en-rAU.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-en-rAU.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-en-rCA.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-en-rCA.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-en-rGB.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-en-rGB.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-en-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-en-rIN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-en-rSG.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-en-rSG.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-es-rUS.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-es-rUS.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-es.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-es.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-et-rEE.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-et-rEE.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-et.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-et.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-eu-rES.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-eu-rES.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-eu.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-eu.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-fa.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-fi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-fi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-fr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-gl-rES.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-gl-rES.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-gl.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-gl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-gu.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-gu.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-h320dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-h320dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hr.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hu.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hu.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hy.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-hy.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-in.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-in.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-is-rIS.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-is-rIS.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-is.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-is.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-it.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-it.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-iw.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-iw.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ja.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ja.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ka.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ka.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-kk.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-kk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-km-rKH.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-km-rKH.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-km.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-km.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-kn.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-kn.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ko.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ko.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ky.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ky.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-land.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-land.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-large-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-large-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-lo.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-lo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-lt.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-lt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-lv.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-lv.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mk.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ml.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ml.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mn.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mn.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mr.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-mr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ms.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ms.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-my-rMM.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-my-rMM.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-my.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-my.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-nb.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-nb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ne.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ne.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-night-v8.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-night-v8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-nl.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-nl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pa.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pa.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pl.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-port.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-port.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pt.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-pt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ro.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ro.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ru.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-si-rLK.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-si-rLK.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-si.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-si.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sk.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sl.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sq.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sq.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sr.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sv.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sv.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sw.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sw.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ta.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ta.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-te-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-te-rIN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-te.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-te.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-th.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-th.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-tl.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-tl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-tr.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-tr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-uk.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-uk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ur.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-ur.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-uz.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-uz.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v11.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v12.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v12.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v14.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v14.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v18.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v18.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v19.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v19.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v22.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v22.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-v23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-vi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-vi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w500dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w500dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w720dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w720dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-xlarge-land-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-xlarge-land-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-zu.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values-zu.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/multi/values.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/anim.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/anim.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/color-v11.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/color-v11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/color-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/color-v23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/color.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/color.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-hdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-mdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-nodpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-nodpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-tvdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-tvdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-v21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-v23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/drawable.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/layout-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/layout-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/layout-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/layout-v21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/layout.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/layout.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/menu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/raw.json" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/raw.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/builds/debug/91190411076369/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/builds/debug/91457303567988/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/MainActivity$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/MainActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/StarterApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/StarterApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/multidex-instrumentation/1.0.1/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/multidex-instrumentation/1.0.1/jars/classes.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services/9.4.0/jars/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services/9.4.0/jars/classes.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/mediarouter/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$raw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/google/android/gms/play_services/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/DriverLocationActivity$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/DriverLocationActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/DriverLocationActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/DriverLocationActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/MainActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/MainActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/MainActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/Manifest$permission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/Manifest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$mipmap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$raw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/RiderActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/RiderActivity$2$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/RiderActivity$2$1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/RiderActivity$2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/RiderActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/RiderActivity$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/RiderActivity$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/RiderActivity$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/RiderActivity$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/RiderActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/StarterApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/ViewRequestsActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/ViewRequestsActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/ViewRequestsActivity$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/ViewRequestsActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/zip-cache/5Kv1w9Tj6f17LSksgy_ocraj0w8=" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/zip-cache/5Kv1w9Tj6f17LSksgy_ocraj0w8=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/jp7vJMPIhQCEAdhCC4fh8dBym3o=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant-run-support/debug/instant-run.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant-run-support/debug/manifest.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant-run-support/debug/manifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/multi-dex/debug/componentClasses.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/multi-dex/debug/componentClasses.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/multi-dex/debug/maindexlist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/multi-dex/debug/maindexlist.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder_large.png" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder_large.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/resources-debug-androidTest.ap_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/restart-dex/debug/build-info.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/mediarouter/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$raw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/play_services/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/DriverLocationActivity$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/DriverLocationActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/DriverLocationActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/DriverLocationActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/MainActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/MainActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/MainActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/Manifest$permission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/Manifest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$mipmap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$raw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/RiderActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/RiderActivity$2$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/RiderActivity$2$1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/RiderActivity$2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/RiderActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/RiderActivity$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/RiderActivity$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/RiderActivity$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/RiderActivity$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/RiderActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/StarterApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/ViewRequestsActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/ViewRequestsActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/ViewRequestsActivity$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/parse/starter/ViewRequestsActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/android/tools/fd/dummy/slice_0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/android/tools/fd/dummy/slice_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/android/tools/fd/dummy/slice_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/google/android/gms/play_services/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/DriverLocationActivity$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/DriverLocationActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/DriverLocationActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/DriverLocationActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/MainActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/MainActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/MainActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/Manifest$permission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/Manifest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$mipmap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$raw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/RiderActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/RiderActivity$2$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/RiderActivity$2$1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/RiderActivity$2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/RiderActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/RiderActivity$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/RiderActivity$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/RiderActivity$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/RiderActivity$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/RiderActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/StarterApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/ViewRequestsActivity$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/ViewRequestsActivity$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/ViewRequestsActivity$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/parse/starter/ViewRequestsActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/android/tools/fd/dummy/slice_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/buildId.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/android/tools/fd/dummy/slice_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$raw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/android/tools/fd/dummy/slice_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$anim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$bool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$dimen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$id.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R$styleable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/android/support/v7/mediarouter/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/buildId.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/android/tools/fd/dummy/slice_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/android/tools/fd/dummy/slice_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/android/tools/fd/dummy/slice_8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/android/tools/fd/dummy/slice_9.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/tmp/expandedArchives.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/StarterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/StarterApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <ignored path="Parse-Server-Starter-Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -533,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/StarterApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
+            <state relative-caret-position="442">
               <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -545,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1402">
-              <caret line="140" column="44" selection-start-line="140" selection-start-column="44" selection-end-line="140" selection-end-column="44" />
+            <state relative-caret-position="937">
+              <caret line="83" column="9" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -801,7 +332,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24886535" />
       <window_info id="Structure" order="1" weight="0.24959612" />
@@ -827,7 +357,7 @@
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Android Profiler" order="14" weight="0.3289689" />
+      <window_info anchor="bottom" id="Android Profiler" order="14" show_stripe_button="false" weight="0.3289689" />
       <window_info anchor="bottom" auto_hide="true" x="22" y="197" width="1322" height="333" id="Logcat" order="15" weight="0.5450082" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -838,12 +368,13 @@
       <window_info anchor="right" id="Gradle" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Device File Explorer" order="9" side_tool="true" weight="0.32980332" />
-      <window_info anchor="right" id="Assistant" order="10" weight="0.32980332" />
+      <window_info anchor="right" id="Assistant" order="9" weight="0.32980332" />
+      <window_info anchor="right" id="Device File Explorer" order="10" side_tool="true" weight="0.32980332" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
@@ -853,7 +384,6 @@
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
@@ -867,7 +397,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/StarterApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
+        <state relative-caret-position="442">
           <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -877,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1402">
-          <caret line="140" column="44" selection-start-line="140" selection-start-column="44" selection-end-line="140" selection-end-column="44" />
+        <state relative-caret-position="937">
+          <caret line="83" column="9" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
         </state>
       </provider>
     </entry>
