@@ -3,552 +3,588 @@
 
     <item
         is-multidex="true"
-        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
-        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_dad18202da1f77a2b2d4626b645dd15f9fac1a68/classes.dex" />
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0_999f634620b694bf6b1d34d94f1818d124e45b2d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
-        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_fabc326dbfc3b63b997c75dcfeda25d86fc31684/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_a2e0b72909c20352de5aaeb2de51683100651613/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_12b9670eca95efcf182c34e89f07d20bea94f47d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_4751d98facc525fa3b83c8838547b9b5527c753c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_b66fd6bf70f10236999d549e62dc2becdb968042/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_f9b3ea64e3fcfae333c2e855ee098d7da1e450cf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_7b4fd480d0758cb107643ec123048759d2d189c3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_5841102c9a3a1bc49055f6c65a18c4155d0d4088/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_668013d32080191ea9a2e1c3fe070fe6bf779722/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_49cb1813aa6e2b091bd21f229576aea9f8e5db81/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0b4994ee68e17e3317d65ad7564b736453b11af3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="de9ff5d2c55951f3ba927bd9940fbe77e5a26ebe">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f8070dfab00b6d29aa35445a51d0e81f76849772/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="3b7173b3df4c7029699919414400041f64519e34">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_bc42dd6173572af35920ea17e9f2970e62b4dd60/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_0fd5848e09d33990d4b9ab7f65b292d667018260/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_cd50461e9186776482917b0e90d0438581101ab1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
+        revision="26.0.2"
         sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_87b94aa1fdcd3f2c484bdcea2fc17539dee76afb/classes.dex" />
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_3dad5c64b623d3f81be7b0c6ec1c33092c222e20\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
-        sha1="670df81539ab71918d49b186598b7eff08ef6563">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_198f49261ff8b66da50d7494627ee4d9f81e64b3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_a317820aa98b89775bcb17140dcbe46b18b4970f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_c4f6d1b1f35cf14160ef0dbac9c1c8541e0a694b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_01d17076c99489dfa1ccfd53dd850f47828d03db/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_a4f35c3958bc5411d7e07907aac8ccb748be292c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_1783abade4970150da2fe20119ea8dd29ab440e1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_a5f08ecc41a63c336d64f0aac317c250b280075c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_c2bfbf3c18655218bfb8aca28b1109b31d867f8b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_0f3db9ad11dda3592bc69ce2e0e3c6dc171838cf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_94c4de628a6877643a59561ecbb6781f6b087dc5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_3b11363d323955b4f206f83b4ebde80170ed2a95/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="e2d6d0ae3fc373dfb5659ddcfbc150721a6818be">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c55b20e856753cc89184863f6307e06164f4a7b9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_6454d756a1331c0dc72a1a0a08357e1a310c2df6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_37c8b6a7d73b9f762fc5b5b200b553f06ae3504e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_3f28f2d8ef9593ece43fabf856b9ede606936e0e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="4348dd26d83b56c2058b768222c3271bce911724">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_cbc5d0d4168e6813ff8cf8890534ff84563e3d32/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_6b27a7682dcd9738c9b1e912930847e3c945402b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_9dd6133cd5e8af1c78a891aea09a969748a3c5b9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_51ba821f5dc4424c4a014ee48a3ce771ce267fd2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_a80d6bdae4d8c7f5e05611af70797956a2d75bb8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_95b0a0ed7cf194a18083533e472fdba86147ee89/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_e2cfd0372ed55d68ca4b6b501cf8b4208e39003f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_ceff97e8b0c2afd5fa29d480b3a6fcb642606be1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_3dd77aa3aa51a664e07edf7357940fb97715d4a9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_eacc263929cf7fa642988f9eb4330a59425b5abb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_cd64f9197e2e9f37b3b296500983b171a38bbdfa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_1ea1a4b4e5083ee3c25d999d378fb875ebc9dd94/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_c64833f8ea0c6f9988a159faf940e09c065aa23e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_974826bdf1a68b3783f4a4307beee3c66aa92716/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_a7929865aab21c24e16a98ec42538fccd38d3e1f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_2ac27ff4ec874b4d746f8b17c15c74c684da33e1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_2a42b09eb5c887478e69f7593f27e10fbf1ecacb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_8dd08f4e3f0a20b3909bdb979130e3afc08ebcd2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_ba6f4f027ba33e406549f55017a99bf84e58d989/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_f299a064707009792d7d6ad08123f9eabf7f70d7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
+        revision="26.0.2"
         sha1="e454c414a069241ee08444d187f2dd3a702596b5">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_652301723bab55e60ddf3d34814932088687515f/classes.dex" />
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_34794815abc0d345bf28dd4852b3f3bce858f3c5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_77c74291242d437118a9b2ee5d7f46891ca49a3d/classes.dex" />
+        revision="26.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_f4226118fb2b3f8993bf314e477e9dc42d62f766\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
-        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_c4ec54004d8794855c2b70ea33b3231a4207c447/classes.dex" />
+        revision="26.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_df0cad95531f7a6cff78ea074dd069ccef779ed2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
-        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_070502f12733809368f0c3fea12b90386d9a97bb/classes.dex" />
+        revision="26.0.2"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_f04b2163cf86d0ecdb0c679321584cbeaa0036eb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
-        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_7d6d498f0e52dfa80a58c0581d17ce5c9c399d13/classes.dex" />
+        revision="26.0.2"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0_c27043e176bf859f96e6c0e72c20e31ca33983f2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_8b788088962940d15537e14a5ddae1206fe08c50/classes.dex" />
+        revision="26.0.2"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0_a2166fe7168297453cf67fc4eae31f3825f5ab82\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
+        revision="26.0.2"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0_b124ae40a80fd6516f26fb3eef8d2d580e8e39ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_5fe2dc5e633242507af8e9c6f373ce3058c2266e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_b11f89d5d8583f46d05859d03060831fe4814e6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_561215a554a928ad689b7ea6bcc69006c7d1527c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_358aa000ef8a09e9d16c69935489c77370a2e725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_62e39183df19f352c4e09410dd42bbf8ff7e5075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0_5b6206a883f7c485dc3fe0b336495d0881ecf863\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
         sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_011bc5bc6aebba3aa50bcae54ad8bb77fbf3eb50/classes.dex" />
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_92f8c1fb22983f8bbf1054f7bfaa883d37e4cdb5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_a190796abf6bce7ee8bf946665c8526580fb732d/classes.dex" />
+        revision="26.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_5b77aa7126f969a09708fc552e8fc778e8f2d3f0\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
-        jumboMode="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="22.0.1"
+        revision="26.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_6e29846ba641b288d1662405bbf5fa90f8f46c3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_ab679775f8c26b1306be0fcedbc9101e68c60618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.1.3_49d84e005adfb7cdd6c762e33857f8130b8be75e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_7bcefac054ca81cfe0c147d521d282e2bec9fe23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_830432c8ea02dd238de87f7314c27872c376ee0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_06abfcf4b0b7350c96ce4bd51c3337403d4c2e2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_a48eb2200eeae3bdda852218139a7b2e3ee1723d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_d214e453cdee75951aaaef2d049b10c7b8910c5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0_7327d974c228c02766206282ba8ef6ad57ad5636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_3f8d2c40f1eb9ff42f2b9c6575230408902b1ddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_dddf29d74a3289f4b678ff4ab400084aa76083fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_44212a556b465965ed046bd5a1bc46f89df5921f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_21610522d55a9d52f7e1d1ebae01124201a9c8dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_dfc03b644b11857f57201507af6aa5dd41bf6bee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_fc1e72b251f24b61d30796c4cf69e32b6313eed4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_fdcdcb708162bb7486971e555b3af9da13922529\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_51c4c7ae5817a9c5338f84fe832739a7d9365d9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.1.3_2620e027d17bdabf0863320ddbfe126239f0819f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_fbd4269b06b201c39505258b949089d5e2325c75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_f8dde970efa628a0ba93c429e89298a7fb237bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_56985027005ec83c09ea2648f6bec9e02a813353\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_2b402fc13066aac4dc3af77b6a9ceb3efb8e829d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_56af3473f1867a4d578529c59c79a1985d335acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0_1bc04d35c4ce0cc8aaf34fb4df6a09bb1a5c14dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_a5ca479cbda2b38cd81034c0cdd4c99f79ad83c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0_74a11801070899f3ba4cb550c02e64d6a7f128bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0_2d494ff6dedad07addd04fc2aed0d14933d3e3e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0_f7a02afa96b03c548f27253b69857460ebf84426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.0_bffc47224292eecad0834a4d2f4335b34e971039\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_c9746ae4c0ccf041aa8e9bfcb30e81f81f733c54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_92256bac01270224748246064e2dd5d5cca97697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_ff13bc5280ae9c83fd15a4c89680724be058ef73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_0fdf58b81b3492cd81205a3c9e9c615f9afa0d72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_9ef619f11e3d53c01169eb5a2e65737a50a0c061\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_fc79670ebb183f39b2bf50e6cbf1372bb0549a43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_5af5329a2de3f70ef6ae946864312d3093268640\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
         sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_d59dcb95be89a64f945a29cef3acb2e259553bae/classes.dex" />
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_44d68be89bb91c732b1a3489b1435287e922ddba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_f5353d57c37aaec5b3558d020a4044bb0abdfdfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_73b7c1a745a8727713f1565da1967e3f4c8499df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_2a000ad786cc09d7f0d4636d4d81647878517121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_daa6951c951bbfab159fdcdae1f27bf248ce36e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_3e5d00c8a00abcc76e518e02efd862aba2ddb69a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_5fc1d467bf95bd3e8b82ce9eee8822b1bc2feaf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_91e7cd034795a4d8d51d60cd21cf87ffced17b66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_bc771c0ed06c7ed19e64aaefa63c85050b2c453a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_112b217c4e11f302298996f061c908239a17225e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_198de9423b36fed6245b2871e8da505735f39407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_80504148e44622067a5a731985d66042f5e45f00\classes.dex" />
     </item>
 
 </items>

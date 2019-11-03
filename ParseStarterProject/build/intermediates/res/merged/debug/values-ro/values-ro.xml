@@ -9,7 +9,7 @@
     <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
     <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
     <string msgid="121134116657445385" name="abc_capital_off">"DEZACTIVAȚI"</string>
-    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAȚI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
     <string msgid="7723749260725869598" name="abc_search_hint">"Căutați…"</string>
     <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
     <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
@@ -86,6 +86,7 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispozitive"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Ștergeți căutarea"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Căutați"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Căutați"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"˃999"</string>
     <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Cumpărați cu Google"</string>
 </resources>

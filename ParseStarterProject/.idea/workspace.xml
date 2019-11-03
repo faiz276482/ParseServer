@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/Android/listViewDemo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/AndroidDemoProjects/MultipleActivityDemo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/AndroidDemoProjects/listViewDemo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Compressed/parseproject/Parse-Server-Starter-Project" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/NewsShare/NewsShare" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="700" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+</project>

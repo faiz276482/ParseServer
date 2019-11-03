@@ -7,8 +7,369 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
+                    "endColumn": 112,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 107,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 107,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 122,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 122,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 99,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 99,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 112,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 112,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 86,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 86,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 105,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endColumn": 105,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 111,
+                    "endOffset": 962
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 111,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 967,
+                    "endColumn": 81,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 81,
+                        "endOffset": 994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 81,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 999,
+                        "endColumn": 81,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 81,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 81,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 108,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 108,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 103,
+                    "endOffset": 1421
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 103,
+                        "endOffset": 1371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1426,
+                    "endColumn": 96,
+                    "endOffset": 1518
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1376,
+                        "endColumn": 96,
+                        "endOffset": 1468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1523,
+                    "endColumn": 107,
+                    "endOffset": 1626
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1473,
+                        "endColumn": 107,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1631,
+                    "endColumn": 100,
+                    "endOffset": 1727
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 100,
+                        "endOffset": 1677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1732,
+                    "endColumn": 102,
+                    "endOffset": 1830
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1682,
+                        "endColumn": 102,
+                        "endOffset": 1780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1835,
+                    "endColumn": 121,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1785,
+                        "endColumn": 121,
+                        "endOffset": 1902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endColumn": 96,
+                    "endOffset": 2049
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1907,
+                        "endColumn": 96,
+                        "endOffset": 1999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2054,
                     "endColumn": 101,
-                    "endOffset": 202
+                    "endOffset": 2151
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -23,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 207,
+                    "startOffset": 2156,
                     "endColumn": 98,
-                    "endOffset": 301
+                    "endOffset": 2250
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -42,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 306,
+                    "startOffset": 2255,
                     "endColumn": 121,
-                    "endOffset": 423
+                    "endOffset": 2372
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -61,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 428,
+                    "startOffset": 2377,
                     "endColumn": 80,
-                    "endOffset": 504
+                    "endOffset": 2453
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -80,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 509,
+                    "startOffset": 2458,
                     "endColumn": 113,
-                    "endOffset": 618
+                    "endOffset": 2567
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -99,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 623,
+                    "startOffset": 2572,
                     "endColumn": 108,
-                    "endOffset": 727
+                    "endOffset": 2676
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -118,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 732,
+                    "startOffset": 2681,
                     "endColumn": 80,
-                    "endOffset": 808
+                    "endOffset": 2757
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -137,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 813,
+                    "startOffset": 2762,
                     "endColumn": 98,
-                    "endOffset": 907
+                    "endOffset": 2856
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -156,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 912,
+                    "startOffset": 2861,
                     "endColumn": 98,
-                    "endOffset": 1006
+                    "endOffset": 2955
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -175,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1011,
+                    "startOffset": 2960,
                     "endColumn": 107,
-                    "endOffset": 1114
+                    "endOffset": 3063
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -194,11 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 1119,
+                    "startOffset": 3068,
                     "endColumn": 77,
-                    "endOffset": 1192
+                    "endOffset": 3141
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -213,11 +574,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 1197,
+                    "startOffset": 3146,
                     "endColumn": 138,
-                    "endOffset": 1331
+                    "endOffset": 3280
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.4.0\\res\\values-mn\\values.xml",
@@ -232,11 +593,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 1336,
+                    "startOffset": 3285,
                     "endColumn": 144,
-                    "endOffset": 1476
+                    "endOffset": 3425
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.4.0\\res\\values-mn\\values.xml",
@@ -251,11 +612,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 1481,
+                    "startOffset": 3430,
                     "endColumn": 93,
-                    "endOffset": 1570
+                    "endOffset": 3519
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.4.0\\res\\values-mn\\values.xml",
@@ -270,11 +631,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 1575,
+                    "startOffset": 3524,
                     "endColumn": 80,
-                    "endOffset": 1651
+                    "endOffset": 3600
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -289,11 +650,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 1656,
+                    "startOffset": 3605,
                     "endColumn": 77,
-                    "endOffset": 1729
+                    "endOffset": 3678
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -308,11 +669,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 1734,
+                    "startOffset": 3683,
                     "endColumn": 76,
-                    "endOffset": 1806
+                    "endOffset": 3755
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -327,11 +688,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 1811,
+                    "startOffset": 3760,
                     "endColumn": 92,
-                    "endOffset": 1899
+                    "endOffset": 3848
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -346,11 +707,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 1904,
+                    "startOffset": 3853,
                     "endColumn": 92,
-                    "endOffset": 1992
+                    "endOffset": 3941
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -365,11 +726,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 1997,
+                    "startOffset": 3946,
                     "endColumn": 101,
-                    "endOffset": 2094
+                    "endOffset": 4043
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -384,11 +745,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2099,
+                    "startOffset": 4048,
                     "endColumn": 96,
-                    "endOffset": 2191
+                    "endOffset": 4140
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -403,11 +764,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2196,
+                    "startOffset": 4145,
                     "endColumn": 92,
-                    "endOffset": 2284
+                    "endOffset": 4233
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -422,11 +783,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2289,
+                    "startOffset": 4238,
                     "endColumn": 75,
-                    "endOffset": 2360
+                    "endOffset": 4309
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -441,11 +802,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 2365,
+                    "startOffset": 4314,
                     "endColumn": 105,
-                    "endOffset": 2466
+                    "endOffset": 4415
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -460,11 +821,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 2471,
+                    "startOffset": 4420,
                     "endColumn": 94,
-                    "endOffset": 2561
+                    "endOffset": 4510
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -479,11 +840,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 2566,
+                    "startOffset": 4515,
                     "endColumn": 98,
-                    "endOffset": 2660
+                    "endOffset": 4609
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -498,11 +859,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 2665,
+                    "startOffset": 4614,
                     "endColumn": 147,
-                    "endOffset": 2808
+                    "endOffset": 4757
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -517,11 +878,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 2813,
+                    "startOffset": 4762,
                     "endColumn": 124,
-                    "endOffset": 2933
+                    "endOffset": 4882
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -536,11 +897,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 2938,
+                    "startOffset": 4887,
                     "endColumn": 130,
-                    "endOffset": 3064
+                    "endOffset": 5013
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -555,11 +916,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3069,
+                    "startOffset": 5018,
                     "endColumn": 126,
-                    "endOffset": 3191
+                    "endOffset": 5140
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -574,11 +935,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3196,
+                    "startOffset": 5145,
                     "endColumn": 97,
-                    "endOffset": 3289
+                    "endOffset": 5238
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -593,11 +954,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 3294,
+                    "startOffset": 5243,
                     "endColumn": 90,
-                    "endOffset": 3380
+                    "endOffset": 5329
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -612,11 +973,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 3385,
+                    "startOffset": 5334,
                     "endColumn": 101,
-                    "endOffset": 3482
+                    "endOffset": 5431
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -631,11 +992,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 3487,
+                    "startOffset": 5436,
                     "endColumn": 79,
-                    "endOffset": 3562
+                    "endOffset": 5511
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\values-mn\\values.xml",
@@ -650,11 +1011,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 3567,
+                    "startOffset": 5516,
                     "endColumn": 111,
-                    "endOffset": 3674
+                    "endOffset": 5623
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -669,11 +1030,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 3679,
+                    "startOffset": 5628,
                     "endColumn": 188,
-                    "endOffset": 3863
+                    "endOffset": 5812
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -688,11 +1049,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 3868,
+                    "startOffset": 5817,
                     "endColumn": 133,
-                    "endOffset": 3997
+                    "endOffset": 5946
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -707,11 +1068,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 4002,
+                    "startOffset": 5951,
                     "endColumn": 128,
-                    "endOffset": 4126
+                    "endOffset": 6075
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -726,11 +1087,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 4131,
+                    "startOffset": 6080,
                     "endColumn": 207,
-                    "endOffset": 4334
+                    "endOffset": 6283
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -745,11 +1106,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 4339,
+                    "startOffset": 6288,
                     "endColumn": 207,
-                    "endOffset": 4542
+                    "endOffset": 6491
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -764,11 +1125,11 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 4547,
+                    "startOffset": 6496,
                     "endColumn": 127,
-                    "endOffset": 4670
+                    "endOffset": 6619
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -783,11 +1144,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 4675,
+                    "startOffset": 6624,
                     "endColumn": 138,
-                    "endOffset": 4809
+                    "endOffset": 6758
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -802,11 +1163,11 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 4814,
+                    "startOffset": 6763,
                     "endColumn": 255,
-                    "endOffset": 5065
+                    "endOffset": 7014
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.4.0\\res\\values-mn\\values.xml",
@@ -821,11 +1182,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 5070,
+                    "startOffset": 7019,
                     "endColumn": 279,
-                    "endOffset": 5345
+                    "endOffset": 7294
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -840,11 +1201,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 5350,
+                    "startOffset": 7299,
                     "endColumn": 124,
-                    "endOffset": 5470
+                    "endOffset": 7419
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -859,11 +1220,11 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 5475,
+                    "startOffset": 7424,
                     "endColumn": 108,
-                    "endOffset": 5579
+                    "endOffset": 7528
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -878,11 +1239,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 5584,
+                    "startOffset": 7533,
                     "endColumn": 198,
-                    "endOffset": 5778
+                    "endOffset": 7727
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -897,11 +1258,11 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 5783,
+                    "startOffset": 7732,
                     "endColumn": 130,
-                    "endOffset": 5909
+                    "endOffset": 7858
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -916,11 +1277,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 5914,
+                    "startOffset": 7863,
                     "endColumn": 199,
-                    "endOffset": 6109
+                    "endOffset": 8058
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -935,11 +1296,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 6114,
+                    "startOffset": 8063,
                     "endColumn": 138,
-                    "endOffset": 6248
+                    "endOffset": 8197
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -954,11 +1315,11 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 6253,
+                    "startOffset": 8202,
                     "endColumn": 197,
-                    "endOffset": 6446
+                    "endOffset": 8395
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -973,11 +1334,11 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 6451,
+                    "startOffset": 8400,
                     "endColumn": 90,
-                    "endOffset": 6537
+                    "endOffset": 8486
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -992,11 +1353,11 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 6542,
+                    "startOffset": 8491,
                     "endColumn": 91,
-                    "endOffset": 6629
+                    "endOffset": 8578
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -1011,11 +1372,11 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 6634,
+                    "startOffset": 8583,
                     "endColumn": 105,
-                    "endOffset": 6735
+                    "endOffset": 8684
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-mn\\values.xml",
@@ -1030,11 +1391,11 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 6740,
+                    "startOffset": 8689,
                     "endColumn": 106,
-                    "endOffset": 6842
+                    "endOffset": 8791
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\values-mn\\values.xml",
@@ -1049,11 +1410,11 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 6847,
+                    "startOffset": 8796,
                     "endColumn": 93,
-                    "endOffset": 6936
+                    "endOffset": 8885
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\values-mn\\values.xml",
@@ -1068,11 +1429,49 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 6941,
+                    "startOffset": 8890,
+                    "endColumn": 80,
+                    "endOffset": 8966
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2004,
+                        "endColumn": 80,
+                        "endOffset": 2080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8971,
+                    "endColumn": 100,
+                    "endOffset": 9067
+                },
+                "from": {
+                    "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\values-mn\\values-mn.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2085,
+                        "endColumn": 100,
+                        "endOffset": 2181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 9072,
                     "endColumn": 110,
-                    "endOffset": 7047
+                    "endOffset": 9178
                 },
                 "from": {
                     "file": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.4.0\\res\\values-mn\\values.xml",

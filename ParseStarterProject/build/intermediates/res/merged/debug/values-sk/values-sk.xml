@@ -8,8 +8,8 @@
     <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
     <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobraziť všetko"</string>
     <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Zvoľte aplikáciu"</string>
-    <string msgid="121134116657445385" name="abc_capital_off">"VYP."</string>
-    <string msgid="3405795526292276155" name="abc_capital_on">"ZAP."</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYPNUTÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAPNUTÉ"</string>
     <string msgid="7723749260725869598" name="abc_search_hint">"Vyhľadať…"</string>
     <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Vymazať dopyt"</string>
     <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhľadávací dopyt"</string>
@@ -86,6 +86,7 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Zariadenia"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Vymazať vyhľadávanie"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Vyhľadávajte"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Vyhľadávanie"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Kúpiť cez Google"</string>
 </resources>

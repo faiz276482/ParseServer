@@ -86,6 +86,7 @@
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Συσκευές"</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Διαγραφή αναζητήσεων"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Αναζήτηση"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Αγορά μέσω Google"</string>
 </resources>
