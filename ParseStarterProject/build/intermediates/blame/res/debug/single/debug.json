@@ -2372,6 +2372,10 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\.gradle\\caches\\transforms-2\\files-2.1\\7f2ba6617055b731a0e900fd9d01d0e8\\appcompat-v7-26.0.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseServer\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_feed.xml.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseServer\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_feed.xml"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\Parse-Server-Starter-Project\\ParseServer\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\.gradle\\caches\\transforms-2\\files-2.1\\7f2ba6617055b731a0e900fd9d01d0e8\\appcompat-v7-26.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },

@@ -11,17 +11,17 @@
 9-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:22:5-79
-11-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:22:22-76
+11-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:5:22-76
 12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-12-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:23:5-80
-12-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:23:22-77
+12-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:6:22-77
 13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-13-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:24:5-79
-13-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:24:22-76
+13-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:7:22-76
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:26:5-67
-14-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:26:22-64
+14-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:8:5-67
+14-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:8:22-64
 15
 16    <!-- Optional permission for Analytics to run. -->
 17    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
@@ -50,37 +50,39 @@
 28-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\faiz2_ry3ol6g\.gradle\caches\transforms-2\files-2.1\e40840d08617686efb9c858c8183dea7\firebase-iid-9.4.0\AndroidManifest.xml:28:22-76
 29
 30    <application
-30-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:5:5-21:19
+30-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:10:5-27:19
 31        android:name="com.parse.starter.StarterApplication"
-31-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:6:9-43
+31-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:11:9-43
 32        android:allowBackup="true"
-32-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:7:9-35
+32-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:12:9-35
 33        android:debuggable="true"
 34        android:icon="@mipmap/ic_launcher"
-34-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:8:9-43
+34-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:13:9-43
 35        android:label="@string/app_name"
-35-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:9:9-41
-36        android:testOnly="true"
-37        android:theme="@style/AppTheme" >
-37-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:10:9-40
+35-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:14:9-41
+36        android:theme="@style/AppTheme" >
+36-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:15:9-40
+37        <activity android:name="com.parse.starter.UserFeedActivity" />
+37-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:16:9-63
+37-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:16:19-51
 38        <activity android:name="com.parse.starter.UserListActivity" />
-38-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:11:9-63
-38-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:11:19-51
+38-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:17:9-54
+38-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:17:19-51
 39        <activity
-39-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:12:9-20:20
+39-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:18:9-26:20
 40            android:name="com.parse.starter.MainActivity"
-40-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:13:13-41
+40-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:19:13-41
 41            android:label="@string/app_name" >
-41-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:14:13-45
+41-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:20:13-45
 42            <intent-filter>
-42-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:15:13-19:29
+42-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:21:13-25:29
 43                <action android:name="android.intent.action.MAIN" />
-43-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:16:17-69
-43-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:16:25-66
+43-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:22:17-69
+43-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:22:25-66
 44
 45                <category android:name="android.intent.category.LAUNCHER" />
-45-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:18:17-77
-45-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:18:27-74
+45-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:24:17-77
+45-->C:\Users\faiz2_ry3ol6g\Desktop\Parse-Server-Starter-Project\ParseServer\ParseStarterProject\src\main\AndroidManifest.xml:24:27-74
 46            </intent-filter>
 47        </activity>
 48

@@ -1121,6 +1121,7 @@ id italic
 id large_icon_uri
 id left
 id light
+id linLayout
 id line1
 id line3
 id listMode
@@ -1130,6 +1131,7 @@ id loading_indicator
 id loginTextView
 id logoImageView
 id logo_only
+id logout
 id main_container
 id match_global_nicknames
 id match_parent
@@ -1287,6 +1289,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_user_feed
 layout activity_user_list
 layout cast_expanded_controller_activity
 layout cast_help_text
